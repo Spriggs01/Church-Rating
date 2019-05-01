@@ -1,0 +1,16 @@
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\ChurchRater.Models.dll.config
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\ChurchRater.Models.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\ChurchRater.Models.pdb
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\EntityFramework.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\EntityFramework.xml
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.csproj.CopyComplete
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.dll
+C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.pdb
