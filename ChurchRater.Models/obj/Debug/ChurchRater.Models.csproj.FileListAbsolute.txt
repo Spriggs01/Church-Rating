@@ -14,3 +14,19 @@ C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.csproj.CopyComplete
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.dll
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Models\obj\Debug\ChurchRater.Models.pdb
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\ChurchRater.Models.dll.config
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\ChurchRater.Models.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\ChurchRater.Models.pdb
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\EntityFramework.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\EntityFramework.xml
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\obj\Debug\ChurchRater.Models.csprojAssemblyReference.cache
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\obj\Debug\ChurchRater.Models.csproj.CoreCompileInputs.cache
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\obj\Debug\ChurchRater.Models.csproj.CopyComplete
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\obj\Debug\ChurchRater.Models.dll
+C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Models\obj\Debug\ChurchRater.Models.pdb
