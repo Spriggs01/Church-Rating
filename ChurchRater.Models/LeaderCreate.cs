@@ -9,5 +9,6 @@ namespace ChurchRater.Models
     public class LeaderCreate
     {
         public string ChuchName { get; set; }
+        public int ChurchID { get; set; }
     }
 }
