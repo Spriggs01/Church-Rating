@@ -21,5 +21,7 @@ namespace ChurchRater.Data
 
         public int MessageRating { get; set; }
 
+        public virtual Church Church { get; set; }
+
     }
 }

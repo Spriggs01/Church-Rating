@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ChurchRater.Models
 {
-    public class Class1
+    public class LeaderCreate
     {
+        public string ChuchName { get; set; }
+        public int ChurchID { get; set; }
     }
 }
