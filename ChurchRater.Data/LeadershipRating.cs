@@ -17,5 +17,7 @@ namespace ChurchRater.Data
 
         public int RapportRating { get; set; }
 
+        public virtual  Leadership Leadership { get; set; }
+
     }
 }
