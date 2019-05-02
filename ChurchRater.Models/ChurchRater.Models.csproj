@@ -55,6 +55,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="LeaderCreate.cs" />
+    <Compile Include="LeaderDetail.cs" />
+    <Compile Include="LeaderEdit.cs" />
+    <Compile Include="LeaderListItem.cs" />
+    <Compile Include="LeaderRatingCreate.cs" />
+    <Compile Include="LeaderRatingDetails.cs" />
+    <Compile Include="LeaderRatingEdit.cs" />
+    <Compile Include="LeaderRatingListView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
