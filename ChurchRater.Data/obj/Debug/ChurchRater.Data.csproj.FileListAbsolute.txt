@@ -14,19 +14,3 @@ C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Data\obj\Debug\ChurchRater.D
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Data\obj\Debug\ChurchRater.Data.csproj.CopyComplete
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Data\obj\Debug\ChurchRater.Data.dll
 C:\Users\sarah\source\repos\ChurchRater\ChurchRater.Data\obj\Debug\ChurchRater.Data.pdb
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\ChurchRater.Data.dll.config
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\ChurchRater.Data.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\ChurchRater.Data.pdb
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\EntityFramework.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\EntityFramework.xml
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\obj\Debug\ChurchRater.Data.csprojAssemblyReference.cache
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\obj\Debug\ChurchRater.Data.csproj.CoreCompileInputs.cache
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\obj\Debug\ChurchRater.Data.csproj.CopyComplete
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\obj\Debug\ChurchRater.Data.dll
-C:\Users\Willie Travis\source\repos\Church-Rating\ChurchRater.Data\obj\Debug\ChurchRater.Data.pdb
